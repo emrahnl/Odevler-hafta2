@@ -1,1 +1,1 @@
-# python-devler-hafta1
+# python-odevler-hafta1
